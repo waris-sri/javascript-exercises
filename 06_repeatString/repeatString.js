@@ -6,7 +6,6 @@ const repeatString = function (s, n) {
   }
   return str;
 };
-// repeatString("hey", 3);
 
 // Do not edit below this line
 module.exports = repeatString;
